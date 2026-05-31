@@ -1,6 +1,6 @@
 {
   "schemaVersion": "client-signal-view-v1",
-  "generatedAt": "2026-05-25T08:47:33.183Z",
+  "generatedAt": "2026-05-31T19:33:17.151Z",
   "source": {
     "system": "n8n",
     "dataset": "Client Signal Lens",
@@ -17980,10 +17980,10 @@
     "trackCardCount": 10,
     "impactMatrixRows": 41,
     "actionCount": 6,
-    "weeklyLensRowsAllForClient": 2,
-    "trackRowsAllForClient": 20,
-    "matrixRowsAllForClient": 81,
-    "actionRowsAllForClient": 11,
+    "weeklyLensRowsAllForClient": 3,
+    "trackRowsAllForClient": 30,
+    "matrixRowsAllForClient": 124,
+    "actionRowsAllForClient": 16,
     "approvedWeeklyLensRowsForClient": 2,
     "approvedTrackRowsForClient": 20,
     "approvedActionRowsForClient": 11,
